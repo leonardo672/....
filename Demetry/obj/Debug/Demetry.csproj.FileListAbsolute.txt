@@ -1,0 +1,90 @@
+D:\C#\Demtry\Новая папка\Demetry\bin\Debug\Demetry.exe.config
+D:\C#\Demtry\Новая папка\Demetry\bin\Debug\Demetry.exe
+D:\C#\Demtry\Новая папка\Demetry\bin\Debug\Demetry.pdb
+D:\C#\Demtry\Новая папка\Demetry\bin\Debug\MySql.Data.dll
+D:\C#\Demtry\Новая папка\Demetry\bin\Debug\Google.Protobuf.dll
+D:\C#\Demtry\Новая папка\Demetry\bin\Debug\ZstdNet.dll
+D:\C#\Demtry\Новая папка\Demetry\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\C#\Demtry\Новая папка\Demetry\bin\Debug\BouncyCastle.Crypto.dll
+D:\C#\Demtry\Новая папка\Demetry\bin\Debug\Ubiety.Dns.Core.dll
+D:\C#\Demtry\Новая папка\Demetry\bin\Debug\System.Memory.dll
+D:\C#\Demtry\Новая папка\Demetry\bin\Debug\System.Buffers.dll
+D:\C#\Demtry\Новая папка\Demetry\bin\Debug\K4os.Compression.LZ4.dll
+D:\C#\Demtry\Новая папка\Demetry\bin\Debug\K4os.Hash.xxHash.dll
+D:\C#\Demtry\Новая папка\Demetry\bin\Debug\System.Numerics.Vectors.dll
+D:\C#\Demtry\Новая папка\Demetry\bin\Debug\MySql.Data.xml
+D:\C#\Demtry\Новая папка\Demetry\obj\Debug\Demetry.csproj.AssemblyReference.cache
+D:\C#\Demtry\Новая папка\Demetry\obj\Debug\Demetry.exe.config
+D:\C#\Demtry\Новая папка\Demetry\obj\Debug\Demetry.Properties.Resources.resources
+D:\C#\Demtry\Новая папка\Demetry\obj\Debug\Demetry.csproj.GenerateResource.cache
+D:\C#\Demtry\Новая папка\Demetry\obj\Debug\Demetry.csproj.CoreCompileInputs.cache
+D:\C#\Demtry\Новая папка\Demetry\obj\Debug\Demetry.exe
+D:\C#\Demtry\Новая папка\Demetry\obj\Debug\Demetry.pdb
+D:\C#\Demtry\Новая папка\Demetry\obj\Debug\Demetry.Конструкция_Форма.resources
+D:\C#\Demtry\Новая папка\Demetry\obj\Debug\Demetry.Лестницы_Форма.resources
+D:\C#\Demtry\Новая папка\Demetry\obj\Debug\Demetry.Материалы_форма.resources
+D:\C#\Demtry\Новая папка\Demetry\obj\Debug\Demetry.Покупатель_Форма.resources
+D:\C#\Demtry\Новая папка\Demetry\obj\Debug\Demetry.Услуги_Форма.resources
+D:\C#\Demtry\Новая папка\Demetry\obj\Debug\Demetry.Изготовитель_Форма.resources
+D:\C#\Demtry\Новая папка\Demetry\obj\Debug\Demetry.Основная_Форма.resources
+D:\C#\Demtry\Новая папка\All\Demetry\bin\Debug\Demetry.exe.config
+D:\C#\Demtry\Новая папка\All\Demetry\bin\Debug\Demetry.exe
+D:\C#\Demtry\Новая папка\All\Demetry\bin\Debug\Demetry.pdb
+D:\C#\Demtry\Новая папка\All\Demetry\bin\Debug\MySql.Data.dll
+D:\C#\Demtry\Новая папка\All\Demetry\bin\Debug\Google.Protobuf.dll
+D:\C#\Demtry\Новая папка\All\Demetry\bin\Debug\ZstdNet.dll
+D:\C#\Demtry\Новая папка\All\Demetry\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\C#\Demtry\Новая папка\All\Demetry\bin\Debug\BouncyCastle.Crypto.dll
+D:\C#\Demtry\Новая папка\All\Demetry\bin\Debug\Ubiety.Dns.Core.dll
+D:\C#\Demtry\Новая папка\All\Demetry\bin\Debug\System.Memory.dll
+D:\C#\Demtry\Новая папка\All\Demetry\bin\Debug\System.Buffers.dll
+D:\C#\Demtry\Новая папка\All\Demetry\bin\Debug\K4os.Compression.LZ4.dll
+D:\C#\Demtry\Новая папка\All\Demetry\bin\Debug\K4os.Hash.xxHash.dll
+D:\C#\Demtry\Новая папка\All\Demetry\bin\Debug\System.Numerics.Vectors.dll
+D:\C#\Demtry\Новая папка\All\Demetry\bin\Debug\MySql.Data.xml
+D:\C#\Demtry\Новая папка\All\Demetry\obj\Debug\Demetry.csproj.AssemblyReference.cache
+D:\C#\Demtry\Новая папка\All\Demetry\obj\Debug\Demetry.exe.config
+D:\C#\Demtry\Новая папка\All\Demetry\obj\Debug\Demetry.Password.resources
+D:\C#\Demtry\Новая папка\All\Demetry\obj\Debug\Demetry.Properties.Resources.resources
+D:\C#\Demtry\Новая папка\All\Demetry\obj\Debug\Demetry.Изготовитель_Форма.resources
+D:\C#\Demtry\Новая папка\All\Demetry\obj\Debug\Demetry.Конструкция_Форма.resources
+D:\C#\Demtry\Новая папка\All\Demetry\obj\Debug\Demetry.Лестницы_Форма.resources
+D:\C#\Demtry\Новая папка\All\Demetry\obj\Debug\Demetry.Материалы_форма.resources
+D:\C#\Demtry\Новая папка\All\Demetry\obj\Debug\Demetry.Основная_Форма.resources
+D:\C#\Demtry\Новая папка\All\Demetry\obj\Debug\Demetry.Покупатель_Форма.resources
+D:\C#\Demtry\Новая папка\All\Demetry\obj\Debug\Demetry.Услуги_Форма.resources
+D:\C#\Demtry\Новая папка\All\Demetry\obj\Debug\Demetry.csproj.GenerateResource.cache
+D:\C#\Demtry\Новая папка\All\Demetry\obj\Debug\Demetry.csproj.CoreCompileInputs.cache
+D:\C#\Demtry\Новая папка\All\Demetry\obj\Debug\Demetry.exe
+D:\C#\Demtry\Новая папка\All\Demetry\obj\Debug\Demetry.pdb
+D:\New folder\C#\Demtry\Новая папка\All\Demetry\bin\Debug\Demetry.exe.config
+D:\New folder\C#\Demtry\Новая папка\All\Demetry\bin\Debug\Demetry.exe
+D:\New folder\C#\Demtry\Новая папка\All\Demetry\bin\Debug\Demetry.pdb
+D:\New folder\C#\Demtry\Новая папка\All\Demetry\bin\Debug\Google.Protobuf.dll
+D:\New folder\C#\Demtry\Новая папка\All\Demetry\bin\Debug\ZstdNet.dll
+D:\New folder\C#\Demtry\Новая папка\All\Demetry\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\New folder\C#\Demtry\Новая папка\All\Demetry\bin\Debug\BouncyCastle.Crypto.dll
+D:\New folder\C#\Demtry\Новая папка\All\Demetry\bin\Debug\Ubiety.Dns.Core.dll
+D:\New folder\C#\Demtry\Новая папка\All\Demetry\bin\Debug\System.Memory.dll
+D:\New folder\C#\Demtry\Новая папка\All\Demetry\bin\Debug\System.Buffers.dll
+D:\New folder\C#\Demtry\Новая папка\All\Demetry\bin\Debug\K4os.Compression.LZ4.dll
+D:\New folder\C#\Demtry\Новая папка\All\Demetry\bin\Debug\K4os.Hash.xxHash.dll
+D:\New folder\C#\Demtry\Новая папка\All\Demetry\bin\Debug\System.Numerics.Vectors.dll
+D:\New folder\C#\Demtry\Новая папка\All\Demetry\bin\Debug\MySql.Data.xml
+D:\New folder\C#\Demtry\Новая папка\All\Demetry\obj\Debug\Demetry.csproj.AssemblyReference.cache
+D:\New folder\C#\Demtry\Новая папка\All\Demetry\obj\Debug\Demetry.exe.config
+D:\New folder\C#\Demtry\Новая папка\All\Demetry\obj\Debug\Demetry.Password.resources
+D:\New folder\C#\Demtry\Новая папка\All\Demetry\obj\Debug\Demetry.Properties.Resources.resources
+D:\New folder\C#\Demtry\Новая папка\All\Demetry\obj\Debug\Demetry.Изготовитель_Форма.resources
+D:\New folder\C#\Demtry\Новая папка\All\Demetry\obj\Debug\Demetry.Конструкция_Форма.resources
+D:\New folder\C#\Demtry\Новая папка\All\Demetry\obj\Debug\Demetry.Лестницы_Форма.resources
+D:\New folder\C#\Demtry\Новая папка\All\Demetry\obj\Debug\Demetry.Материалы_форма.resources
+D:\New folder\C#\Demtry\Новая папка\All\Demetry\obj\Debug\Demetry.Основная_Форма.resources
+D:\New folder\C#\Demtry\Новая папка\All\Demetry\obj\Debug\Demetry.Покупатель_Форма.resources
+D:\New folder\C#\Demtry\Новая папка\All\Demetry\obj\Debug\Demetry.Услуги_Форма.resources
+D:\New folder\C#\Demtry\Новая папка\All\Demetry\obj\Debug\Demetry.csproj.GenerateResource.cache
+D:\New folder\C#\Demtry\Новая папка\All\Demetry\obj\Debug\Demetry.csproj.CoreCompileInputs.cache
+D:\New folder\C#\Demtry\Новая папка\All\Demetry\obj\Debug\Demetry.csproj.CopyComplete
+D:\New folder\C#\Demtry\Новая папка\All\Demetry\obj\Debug\Demetry.exe
+D:\New folder\C#\Demtry\Новая папка\All\Demetry\obj\Debug\Demetry.pdb
+D:\New folder\C#\Demtry\Новая папка\All\Demetry\obj\Debug\Demetry.csproj.SuggestedBindingRedirects.cache
